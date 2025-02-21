@@ -6,4 +6,8 @@ See license.
 
 
 requirements:
-`pip install typing-extensions`
+
+```
+pip install typing-extensions
+pipenv install openai
+```
