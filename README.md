@@ -3,3 +3,7 @@ Servicing a need to parse a bunch of files using Chat-GPT and the API I offer th
 More as I get time to document.
 
 See license.
+
+
+requirements:
+`pip install typing-extensions`
